@@ -27,7 +27,7 @@ A mini product discovery app built with **Next.js** (App Router), **TypeScript**
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/ArinjayBhola/StealthStartupAssisgnment
    cd stealthstartup
    ```
 
